@@ -60,7 +60,7 @@ Tidie es una aplicación de escritorio pensada para organizar el trabajo diario 
 Las versiones públicas de Tidie están disponibles en la sección **Releases** de este repositorio.
 
 Descarga recomendada:
-- `Tidie-Windows-v1.0.zip`
+- `Tidie-Windows-v1.0.0.zip`
 
 ## Instalación
 
